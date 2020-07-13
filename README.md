@@ -14,15 +14,21 @@
 
 ## For usage and more information please read the [Wiki page](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/)!
 
+### Also available for WS2812B LED strip with WS2812FX support which you can find [here](https://github.com/HomeKidd/HomeKit-MagicHome-LED-controller-Elgato-Eve-Light-Strip)! 🤓
+
+
+**This HomeKit enabled sensor works exactly the same as [Elgato EVE Light Strip](https://www.evehome.com/en/eve-light-strip)!** 
+
 **Features:**
 
 * Change Color
 * Change Brightness
 * ~~Change Color Temperature~~
-* ~~[Power Behaviour](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/HomeKit-Setup#transitions-and-power-behaviour) characteristic _(Default Color / Last Used on startup via Eve app)_~~
-* ~~[Transition](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/HomeKit-Setup#transitions-and-power-behaviour) characteristic _(Quick / Default / Moderate / Calm via Eve app)_~~
+* [Power Behaviour](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/HomeKit-Setup#transitions-and-power-behaviour) characteristic _(Default Color / Last Used on startup via Eve app)_
+* [Transition](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/HomeKit-Setup#transitions-and-power-behaviour) characteristic _(Quick / Default / Moderate / Calm via Eve app)_
 * Downloadable User Manual _(via Eve app)_ 
 * ~~OTA firmware update~~ _(not implemented yet)_
+
 
 **Demo:**
 
