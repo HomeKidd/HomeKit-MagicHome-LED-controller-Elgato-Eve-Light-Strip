@@ -23,7 +23,7 @@
 
 * Change Color
 * Change Brightness
-* ~~Change Color Temperature~~
+* ~~Change Color Temperature~~ **_(currently only RGB support)_**
 * [Power Behaviour](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/HomeKit-Setup#transitions-and-power-behaviour) characteristic _(Default Color / Last Used on startup via Eve app)_
 * [Transition](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/HomeKit-Setup#transitions-and-power-behaviour) characteristic _(Quick / Default / Moderate / Calm via Eve app)_
 * Downloadable User Manual _(via Eve app)_ 
